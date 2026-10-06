@@ -1,7 +1,8 @@
 # Hi, I'm Netsanet 👋
 
 ## About Me
-Full Stack Developer and Computer Science graduate...
+Full Stack Developer
+Computer Science graduate.
 
 ## Skills
 - HTML
@@ -21,8 +22,8 @@ Food delivery application built with React...
 Web-based campus navigation system...
 
 ## Education
-IBT College of Canada
-Full Stack Software Development
+Debre Tabor University, Computer Science
+IBT College of Canada, Full Stack Software Development
 
 ## Currently Learning
 - Golang Backend Development
