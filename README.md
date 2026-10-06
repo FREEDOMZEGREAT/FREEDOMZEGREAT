@@ -34,6 +34,6 @@ IBT College of Canada, Full Stack Software Development
 - Email
 - instagram
 - telegram
-  ##github analysis
-  my statstics
+## github analysis
+- my statstics
   
