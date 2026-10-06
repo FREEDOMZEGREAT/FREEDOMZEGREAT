@@ -1,8 +1,7 @@
 # Hi, I'm Netsanet 👋
 
 ## About Me
-Full Stack Developer
-Computer Science graduate.
+Full Stack Software Developer.
 
 ## Skills
 - HTML
