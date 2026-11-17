@@ -99,10 +99,10 @@ A web-based campus navigation application designed to help students, staff, and 
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 📸 Instagram: YOUR_INSTAGRAM_URL
-- ✈️ Telegram: YOUR_TELEGRAM_URL
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/netsanet-degu-429755366)
+- 📧 Email: netsanetdegu387@gmail.com
+- 📸 Instagram: netsanet_degu_21
+- ✈️ Telegram: @Freedom_Ze_Great
 
 ---
 
