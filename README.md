@@ -26,6 +26,7 @@ I enjoy solving real-world problems through technology, learning new tools, and 
 - CSS3
 - JavaScript (ES6+)
 - React.js
+- TypeScript
 - Next.js
 - Tailwind CSS
 
